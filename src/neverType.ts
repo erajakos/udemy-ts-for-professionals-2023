@@ -48,3 +48,5 @@ function area(s: Shape) {
     return ensureAllCasesHandled;
 }
 
+export {};
+
